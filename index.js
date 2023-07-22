@@ -28,6 +28,21 @@ const db = {
             id: 1,
             wins: 1,
             time: 10,
+        },
+        {
+            id: 2,
+            wins: 2,
+            time: 7,
+        },
+        {
+            id: 3,
+            wins: 5,
+            time: 15,
+        },
+        {
+            id: 4,
+            wins: 7,
+            time: 11,
         }
     ]
 };
